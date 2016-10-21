@@ -1,0 +1,20 @@
+{
+  "name": "jacobclouse.net",
+  "homepage": "https://github.com/JacobClouse/jacobclouse.net",
+  "description": "jacobclouse.net website",
+  "main": "index.html",
+  "authors": [
+    "Jacob Clouse"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
